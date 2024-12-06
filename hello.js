@@ -1,0 +1,1 @@
+document.write("<h3>Javascript code created by Sreeja</h3>");
